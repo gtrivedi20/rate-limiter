@@ -44,7 +44,7 @@ Follow below steps to install Rate Limier in local
 
 ## Usage
 
-./gradlew bootRun - run rate limiter service in local
-./gradlew clean test - execute unit and integration test suit for rate limiter service in local
+- ./gradlew bootRun - run rate limiter service in local
+- ./gradlew clean test - execute unit and integration test suit for rate limiter service in local
 
 
