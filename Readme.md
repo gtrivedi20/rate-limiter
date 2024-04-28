@@ -37,7 +37,7 @@ Here are a few examples:
 
 Follow below steps to install Rate Limier in local
 
-- download source code and unzip in local
+- clone https://github.com/gtrivedi20/rate-limiter.git in local
 - go to project root folder and run below commands 
   - ./gradlew dependencies - this command pull dependencies 
   - ./gradlew build - this command will build jar file
