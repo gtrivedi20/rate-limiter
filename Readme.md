@@ -20,7 +20,7 @@ The Rate Limiter service limits the numbers of client requests allowed to be sen
 
 Here are a few examples: 
 
-- A user can write no more than 2 posts per second.s
+- A user can write no more than 2 posts per seconds.
 - You can create a maximum of 10 accounts 5 seconds from the same IP address. 
 - You can claim rewards no more than 5 times 50 seconds from the same device.
 
