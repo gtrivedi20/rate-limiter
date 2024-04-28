@@ -9,9 +9,6 @@ A brief description of your microservice.
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-
 
 ## Overview
 
