@@ -18,7 +18,7 @@ public class RateLimitServiceTest {
     private GlobalConfiguration globalConfiguration;
 
     @InjectMocks
-    private RateLimitService rateLimitService;
+    private RateLimitServiceImpl rateLimitService;
 
     @Test
     public void rateLimitReturnFalse() {
