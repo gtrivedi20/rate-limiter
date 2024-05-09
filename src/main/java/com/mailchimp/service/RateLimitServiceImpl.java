@@ -34,7 +34,7 @@ public class RateLimitServiceImpl implements RateLimitService {
             counter.reset(currentTime);
         }
 
-        // if the token has exceeded the limit
+        // if the token has not exceeded the limit
         if (counter.getRequestCount() < globalConfiguration.getRateLimitConfiguration().getLimit()) {
             counter.incrementCount();
             tokenRequestCounters.put(uniqueToken, counter);
